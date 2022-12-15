@@ -1,17 +1,17 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Marco
-    given-names: Sanguineti
+  - family-names: Sanguineti
+    given-names: Marco
     orcid: https://orcid.org/0000-0002-2230-4780
-  - family-names: Luca
-    given-names: Ratto
-  - family-names: Andrea
-    given-names: Perrone
-  - family-names: Gianluca
-    given-names: Ricci
-  - family-names: Klajdi
-    given-names: Beqiraj
+  - family-names: Ratto
+    given-names: Luca
+  - family-names: Perrone
+    given-names: Andrea
+  - family-names: Ricci
+    given-names: Gianluca
+  - family-names: Beqiraj
+    given-names: Klajdi
 title: "NASA Rotor37 Aerodynamic Dataset"
 version: 1.0.0
 date-released: 2022-12-15
