@@ -59,7 +59,7 @@ label
 - 1: pressure side
 
 ### EDPs and Performances
-Tabular structured data for the 2000 simulations conducted are provided. The data contains 36 design parameters (Enginnering Design Parameters) used for the generation of the dataset and 17 aerodynamic performances obtained through CFD simulation.
+Tabular structured data for the 2000 simulations conducted are provided. The data contains 36 design parameters (Engineering Design Parameters) used for the generation of the dataset and 17 aerodynamic performances obtained through CFD simulation.
 
 ## Articles and researches using this data
 - [Rotor37 Aerodynamic Optimization: A Machine Learning Approach](https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2022/86120/V10DT34A021/1149434
